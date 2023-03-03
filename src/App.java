@@ -2,7 +2,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         //System.out.println("Hello, World!");
 
-
+        System.out.println("Hello Every One");
         int[] nums = {1,2,3,4,5};
         int a = 9;
         int b = 1;
